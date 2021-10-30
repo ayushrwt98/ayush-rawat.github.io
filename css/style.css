@@ -3,10 +3,6 @@ body::before{
     content:'';
     height: 70px ;
 }
-.lead{
-    line-height: 3rem;
-    word-spacing: 0.5rem;
-}
 .card-text{
     line-height: 2rem;
 }

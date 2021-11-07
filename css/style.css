@@ -6,3 +6,12 @@ body::before{
 .card-text{
     line-height: 2rem;
 }
+.para{
+    font-size:2rem;
+}
+.web{
+    font-size:1.2rem;
+}
+.bs{
+    font-size:1.2rem;   
+}

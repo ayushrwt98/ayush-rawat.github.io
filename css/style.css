@@ -18,3 +18,18 @@ body::before{
 .typewrite{
     text-decoration: none;
 }
+#sff:hover{
+    transform: scale(1.1) rotate(
+2deg);
+opacity: 0.9;
+}
+#havmi:hover{
+    transform: scale(1.1) rotate(
+2deg);
+opacity: 0.9;
+}
+#health:hover{
+    transform: scale(1.1) rotate(
+2deg);
+opacity: 0.9;
+}
